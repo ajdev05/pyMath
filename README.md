@@ -1,3 +1,3 @@
 # pyMath
 Math Library on python
-> git@github.com:ajdev05/pyMath.git
+> ``git clone git@github.com:ajdev05/pyMath.git``
