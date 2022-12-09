@@ -1,4 +1,5 @@
 import random
+@Method_class
 class Math():
 
     def help(self):
