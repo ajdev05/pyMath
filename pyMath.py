@@ -1,5 +1,5 @@
 import random
-# tester
+# class
 class Math():
 
     def help(self):
